@@ -1,5 +1,48 @@
-print("hello world guys")
+#  ---CARA PERTAMA---
+# print("*** ***")
+# print("---Nama Saya Yusril---")
+# print("*** ***")
+ 
+# ////
+ 
+#  ---CARA kEDUA---
+# print('''
+# *** ***
+# ---Nama Saya Yusril---
+# *** ***
+#  ''')
+ 
+# judul = "Ini angka"
+# nomor1 = 3
+# nomor2 = 3
+# hasil = nomor1 + nomor2
+ 
+ 
+# print("angka" )
+# print(hasil)
+ 
+ 
 
-angka1 = 3
-angka2 = 5
-hasil = angka1 + angka2
+ 
+nama = "Yusril"
+kelas = "Informatika A "
+ 
+print("*** CARA PERTAMA ***")
+print("---Nama Saya " + nama + " ---")
+print("---Kelas " + kelas + "---")
+print("*** ***")
+ 
+print(f'''
+*** CARA KEDUA ***
+---Nama Saya {nama}---
+---Kelas {kelas}  ---
+*** ***
+ ''')
+ 
+ 
+ 
+# print(f'''
+# *** ***
+# ---Nama Saya {nama}---
+# *** ***
+#  ''')
